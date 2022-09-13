@@ -1,0 +1,14 @@
+cffi==1.15.1
+EasyProcess==1.1
+entrypoint2==1.1
+mss==6.1.0
+Pillow==9.2.0
+pycparser==2.21
+pynput==1.7.6
+# pyobjc-core==8.5
+# pyobjc-framework-ApplicationServices==8.5
+# pyobjc-framework-Cocoa==8.5
+# pyobjc-framework-Quartz==8.5
+pyscreenshot==3.0
+six==1.16.0
+sounddevice==0.4.4
